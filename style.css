@@ -1,0 +1,22 @@
+.fluid-container{
+    background-color: #b59;
+    
+}
+
+.icono{
+    
+    margin-left: 8px;
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.contenedor{
+    background-color: blue;
+    height: 800px;
+    width: 100%;
+}
+.carousel-inner{
+    height: 800px;
+    width: 100%;
+}
