@@ -1,7 +1,4 @@
-.fluid-container{
-    background-color: #b59;
-    
-}
+
 
 .icono{
     
@@ -19,4 +16,17 @@
 .carousel-inner{
     height: 800px;
     width: 100%;
+}
+.row{
+    background-color: ;
+}
+
+.cuadro1{
+    background-color: rgb(35, 121, 235);
+}
+.cuadro3{
+    background-color: chocolate;
+}
+.cuadro4{
+    background-color: rgb(110, 226, 43);
 }
