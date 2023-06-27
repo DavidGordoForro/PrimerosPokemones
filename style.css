@@ -17,6 +17,34 @@
     height: 800px;
     width: 100%;
 }
+.planta{
+    background-color: rgb(110, 226, 43);
+    width: 100%;
+}
+.fuego{
+    background-color: rgb(255, 69, 0);
+    width: 100%;
+}
+.agua{
+    background-color: rgb(135, 206, 250);
+    width: 100%;
+}
+.bicho{
+    background-color: rgb(110, 226, 43);
+    width: 100%;
+}
+.normal{
+    background-color: rgb(204, 204, 204);
+    width: 100%;
+}
+.veneno{
+    background-color: rgb(155, 89, 182);
+    width: 100%;
+}
+.electrico{
+    background-color: rgb(247, 220, 111);
+    width: 100%;
+}
 
 
 .cuadro1{
@@ -27,4 +55,7 @@
 }
 .cuadro2{
     background-color: rgb(74, 129, 42);
+}
+.pokeDex{
+    background-image: url(Imagenes/pikachufondo.jpg);
 }
