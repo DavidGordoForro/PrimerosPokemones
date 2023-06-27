@@ -46,6 +46,14 @@
     width: 100%;
 }
 
+.fondo{
+    background-image: url(Imagenes/pikachufondo.jpg);
+}
+
+.videos{
+    background-color: brown;
+}
+
 
 .cuadro1{
     background-color: rgb(90, 160, 252);
