@@ -67,3 +67,39 @@
 .pokeDex{
     background-image: url(Imagenes/pikachufondo.jpg);
 }
+.foroContainer{
+    background-color: bisque;
+    width: 75%;
+    height: 850px;
+    background-image: url(Imagenes/montonPokeBall.jpg);
+    margin-left: 40px;
+    padding-top: 45px;
+    display: inline-block;
+    
+}
+.foro{
+    background-color: #fff;
+    width: 35%;
+    height: 85%;
+    box-shadow: 10px 10px 5px 5px;
+    margin-left: 45px;
+    display: inline-block;
+    
+}
+.inputContainer{
+    background-image: url(Imagenes/pokeball.jpg);
+    display: inline-block;
+    width: 40%;
+    height: 85%;
+    margin-bottom: -800px;
+    box-shadow: 10px 10px 5px 5px;
+    margin-left: 8px;
+}
+.txtComentario{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+
+    
+}
+
